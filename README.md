@@ -1,5 +1,8 @@
 # 플러터 면접 스터디
 
+cs잘 설명해주는 유튜브 채널
+https://www.youtube.com/@WIRED
+
 질문
 https://teamsparta.notion.site/Flutter-2fb2dc3ef5148063b6b3e0140ab2f867
 
